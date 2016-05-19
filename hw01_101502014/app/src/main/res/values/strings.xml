@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lucky Number</string>
+    <string name="lucnum_btn">開始</string>
+    <string name="lucnum">幸運數字</string>
+    <string name="lucnum_result">你的幸運數字是</string>
+    <!--author-->
+    <string name="name">鄭俊廷</string>
+    <string name="stu_id">hw01_101502014</string>
+    <!--other-->
+    <string name="action_about">about</string>
+    <string name="action_exit">exit</string>
+</resources>
